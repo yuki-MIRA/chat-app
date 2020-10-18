@@ -128,14 +128,14 @@ text-decoration: none;
   display: flex;
 }
 
-.type-message {
+.form-message {
   padding-left: 10px;
   height: 50px;
   width: 100%;
   border: none;
 }
 
-.post-btn {
+.form-submit {
   padding: 0 20px;
   margin-left: 15px;
   height: 50px;
